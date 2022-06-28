@@ -4,6 +4,7 @@ mmc-pack.json
 LICENSE
 README.md
 script/
+.minecraft/options.txt
 # no longer needed ignores to prevent unwanted stashing
 #.minecraft/assets
 #.minecraft/backups
@@ -25,7 +26,6 @@ script/
 #.minecraft/BotaniaVars.dat
 #.minecraft/crafttweaker.log
 #.minecraft/OpenComputersMod*
-#.minecraft/options.txt
 #.minecraft/patchouli_data.json
 #.minecraft/tailslibrary.json
 #.minecraft/usercache.json
