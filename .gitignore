@@ -32,3 +32,4 @@ script/
 .minecraft/usercache.json
 .minecraft/usernamecache.json
 .minecraft/servers.dat
+.minecraft/options.txt
