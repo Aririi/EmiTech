@@ -8,7 +8,7 @@ recipes.addShaped("wooden_door", wooden_door, [
 	[oak_wood, oak_wood, <*>],
 	[oak_wood, oak_wood, <*>],
 	[oak_wood, oak_wood, <*>]]);
-recipes.addShaped("wooden_door", wooden_door, [
+recipes.addShaped("wooden_door2", wooden_door, [
 	[<*>, oak_wood, oak_wood],
 	[<*>, oak_wood, oak_wood],
 	[<*>, oak_wood, oak_wood]]);
