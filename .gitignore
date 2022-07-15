@@ -27,6 +27,84 @@
 .minecraft/tv-cache
 .minecraft/usercache.json
 .minecraft/usernamecache.json
+
+# change below when needed
+	.minecraft/asm/
+	.minecraft/config/AppliedEnergistics2/
+	.minecraft/config/BasicNetherOres/
+	.minecraft/config/Building Gadgets.cfg
+	.minecraft/config/Galacticraft/
+	.minecraft/config/InvTweaksTrees.txt
+	.minecraft/config/LagGoggles-client.cfg
+	.minecraft/config/LagGoggles-server.cfg
+	.minecraft/config/NaturaModules.cfg
+	.minecraft/config/TickCentral/
+	.minecraft/config/TinkerModules.cfg
+	.minecraft/config/actuallyadditions.cfg
+	.minecraft/config/aether_legacy.cfg
+	.minecraft/config/akashictome.cfg
+	.minecraft/config/appleskin.cfg
+	.minecraft/config/avaritia.cfg
+	.minecraft/config/badwithernocookiereloaded.cfg
+	.minecraft/config/baubles.cfg
+	.minecraft/config/betteradvancements/
+	.minecraft/config/betterbuilderswands.cfg
+	.minecraft/config/betterfps.json
+	.minecraft/config/biomesoplenty/
+	.minecraft/config/bonsaitrees/
+	.minecraft/config/botania.cfg
+	.minecraft/config/brandon3055/
+	.minecraft/config/chisel.cfg
+	.minecraft/config/codechickenlib.cfg
+	.minecraft/config/cofh/
+	.minecraft/config/cookingforblockheads.cfg
+	.minecraft/config/ctm.cfg
+	.minecraft/config/denseneutroncollectors.cfg
+	.minecraft/config/elevatorid.cfg
+	.minecraft/config/endercore/
+	.minecraft/config/enderio/enderio.cfg
+	.minecraft/config/energyconverters.cfg
+	.minecraft/config/environmentaltech/
+	.minecraft/config/fastbench.cfg
+	.minecraft/config/foamfix.cfg
+	.minecraft/config/forge.cfg
+	.minecraft/config/forgeChunkLoading.cfg
+	.minecraft/config/ftbbackups.cfg
+	.minecraft/config/ftblib.cfg
+	.minecraft/config/ftbutilities.cfg
+	.minecraft/config/icbmclassic/battery.cfg
+	.minecraft/config/icbmclassic/debug.cfg
+	.minecraft/config/icbmclassic/emp.cfg
+	.minecraft/config/icbmclassic/item.cfg
+	.minecraft/config/icbmclassic/launcher.cfg
+	.minecraft/config/icbmclassic/main.cfg
+	.minecraft/config/icbmclassic/missile.cfg
+	.minecraft/config/icbmclassic/mods/
+	.minecraft/config/icbmclassic/thread.cfg
+	.minecraft/config/ironbackpacks/
+	.minecraft/config/jei/
+	.minecraft/config/lootr.cfg
+	.minecraft/config/morphtool.cfg
+	.minecraft/config/omlib.cfg
+	.minecraft/config/openmodularturrets.cfg
+	.minecraft/config/p455w0rdsLib.cfg
+	.minecraft/config/patchouli.cfg
+	.minecraft/config/pneumaticcraft.cfg
+	.minecraft/config/securitycraft.cfg
+	.minecraft/config/splash.properties
+	.minecraft/config/tconevo.cfg
+	.minecraft/config/thaumcraft_graphics.cfg
+	.minecraft/config/thaumcraft_misc.cfg
+	.minecraft/config/thaumcraft_world.cfg
+	.minecraft/config/tmechworksModules.cfg
+	.minecraft/config/toastcontrol.cfg
+	.minecraft/config/twilightforest.cfg
+	.minecraft/config/valkyrielib/
+	.minecraft/config/vanillafix.cfg
+	.minecraft/config/xtones.cfg
+	.minecraft/scripts/nc_script_addons/
+
+# pack stuff
 LICENSE
 README.md
 icon.png
