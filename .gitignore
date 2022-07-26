@@ -103,6 +103,7 @@
 	.minecraft/config/vanillafix.cfg
 	.minecraft/config/xtones.cfg
 	.minecraft/scripts/nc_script_addons/
+	.minecraft\config\AppliedEnergistics2\AppliedEnergistics2.cfg
 
 # pack stuff
 LICENSE
